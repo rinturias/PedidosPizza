@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRSLfhbSRaN2aWnIX119ec7FadlvWvuxRq6oTRC/OgLMgcHE1HiWCUIxS7qdPqh1Br+eGyRwFNJB6gXYufmoug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inturias\\Source\\Repos\\Pedidos.Diplomado\\Pedidios.Technical.Evaluation.IoC\\Pedidios.Technical.Evaluation.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inturias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Inturias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Inturias\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

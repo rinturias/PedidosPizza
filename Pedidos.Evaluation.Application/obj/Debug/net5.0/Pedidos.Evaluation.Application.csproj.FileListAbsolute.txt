@@ -1,0 +1,12 @@
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\bin\Debug\net5.0\Pedidos.Evaluation.Application.deps.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\bin\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\bin\Debug\net5.0\ref\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\bin\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.AssemblyInfoInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.AssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\ref\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Evaluation.Application\obj\Debug\net5.0\Pedidos.Evaluation.Application.csproj.AssemblyReference.cache

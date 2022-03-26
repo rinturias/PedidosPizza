@@ -1,0 +1,72 @@
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.exe
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.deps.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.runtimeconfig.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.runtimeconfig.dev.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\ref\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.AssemblyReference.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.AssemblyInfoInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.AssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.CoreCompileInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\staticwebassets\Pedidos.Technical.Evaluation.Api.StaticWebAssets.Manifest.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\staticwebassets\Pedidos.Technical.Evaluation.Api.StaticWebAssets.xml
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\scopedcss\bundle\Pedidos.Technical.Evaluation.Api.styles.css
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.CopyComplete
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\ref\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.genruntimeconfig.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.exe
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.deps.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.runtimeconfig.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.runtimeconfig.dev.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\ref\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Technical.Evaluation.Api.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\bin\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.AssemblyReference.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.AssemblyInfoInputs.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.AssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.CoreCompileInputs.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\staticwebassets\Pedidos.Technical.Evaluation.Api.StaticWebAssets.Manifest.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\staticwebassets\Pedidos.Technical.Evaluation.Api.StaticWebAssets.xml
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\scopedcss\bundle\Pedidos.Technical.Evaluation.Api.styles.css
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.csproj.CopyComplete
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\ref\Pedidos.Technical.Evaluation.Api.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidos.Technical.Evaluation.Api\obj\Debug\net5.0\Pedidos.Technical.Evaluation.Api.genruntimeconfig.cache

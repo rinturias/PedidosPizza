@@ -1,0 +1,30 @@
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.deps.json
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\ref\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.AssemblyReference.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.AssemblyInfoInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.AssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.CopyComplete
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\ref\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\princios solid\Nueva carpeta\PRINCIPIOS-SOLID-RonalInturias-NetCore\PRINCIPIOS-SOLID\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.deps.json
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\ref\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidos.Evaluation.Application.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\bin\Debug\net5.0\Pedidos.Evaluation.Application.pdb
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.AssemblyReference.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.AssemblyInfoInputs.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.AssemblyInfo.cs
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.csproj.CopyComplete
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\ref\Pedidios.Technical.Evaluation.IoC.dll
+C:\Users\Inturias\Source\Repos\Pedidos.Diplomado\Pedidios.Technical.Evaluation.IoC\obj\Debug\net5.0\Pedidios.Technical.Evaluation.IoC.pdb
